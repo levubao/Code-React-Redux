@@ -12,7 +12,7 @@ class Cart extends Component {
                 <th>Sản Phẩm</th>
                 <th>Giá</th>
                 <th>Số Lượng</th>
-                <th>Tổng Cộng</th>
+                <th>Tổng Cộng(total)</th>
                 <th></th>
               </tr>
             </thead>
