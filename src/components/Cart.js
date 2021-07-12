@@ -11,8 +11,8 @@ class Cart extends Component {
                 <th></th>
                 <th>Sản Phẩm</th>
                 <th>Giá(price)</th>
-                <th>Số Lượng</th>
-                <th>Tổng Cộng</th>
+                <th>Số Lượng(quantity)</th>
+                <th>Tổng Cộng(total)</th>
                 <th></th>
               </tr>
             </thead>
