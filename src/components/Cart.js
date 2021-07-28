@@ -5,7 +5,7 @@ class Cart extends Component {
     return (
       <section className="section">
         <div className="table-responsive">
-          <p>Branch fix</p>
+          <p>Branch fix fix fix</p>
           <table className="table product-table">
             <thead>
               <tr>
